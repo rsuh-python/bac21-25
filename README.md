@@ -12,7 +12,7 @@
 
 
 
-Таблица с баллами (будет позднее)
+[Таблица с баллами](https://docs.google.com/spreadsheets/d/14kbSy3kSs1-IcgRdivuFD4BhEZpskgnEVCz-XkCUuhk/edit?usp=sharing)
 
 #### Как пользоваться гитхабом:
 
