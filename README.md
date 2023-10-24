@@ -12,7 +12,8 @@
 2. Строки и методы строк
 3. Циклы
 4. Функции
-
+5. Упражнения
+6. Списки
 
 
 [Таблица с баллами](https://docs.google.com/spreadsheets/d/14kbSy3kSs1-IcgRdivuFD4BhEZpskgnEVCz-XkCUuhk/edit?usp=sharing)
