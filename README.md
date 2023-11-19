@@ -14,6 +14,10 @@
 4. Функции
 5. Упражнения
 6. Списки
+7. Множества
+8. Словари
+9. Файлы
+10. Контрольная работа
 
 
 [Таблица с баллами](https://docs.google.com/spreadsheets/d/14kbSy3kSs1-IcgRdivuFD4BhEZpskgnEVCz-XkCUuhk/edit?usp=sharing)
